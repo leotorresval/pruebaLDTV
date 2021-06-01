@@ -1,2 +1,4 @@
 LEONARDO DAVID
 TORRES VALVERDE
+Java C# Python
+Postgresql Oracle mysql
